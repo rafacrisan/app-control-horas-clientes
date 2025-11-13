@@ -1,0 +1,5 @@
+{
+  "name": "Contador tiempo por cliente",
+  "description": "A simple application to track the time spent working for different companies. Easily switch between tasks and see how your time is distributed.",
+  "requestFramePermissions": []
+}
